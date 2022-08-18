@@ -1,7 +1,8 @@
 ### Komal Jayswal 👋
 
-### Hi there 👋
+### Hi everyone 👋
 
+A software developer who enjoys working with team of engineers to solve interesting technical challenges. As confident as my verbal and written communication skills. My resume speaks of my multitasking skills and eagerness to learn as many skills as I can. I have handled many groups that showcase my
 **KomalJayswal/KomalJayswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
