@@ -1,17 +1,50 @@
-### Komal Jayswal 👋
 
-### Hi everyone 👋
+# Hi, I'm Komal! 👋
 
-A software developer who enjoys working with team of engineers to solve interesting technical challenges. As confident as my verbal and written communication skills. My resume speaks of my multitasking skills and eagerness to learn as many skills as I can. I have handled many groups that showcase my
-**KomalJayswal/KomalJayswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I am an Associate Software Developer who enjoys working with team of engineers to solve interesting technical challenges. 
+Eager to learn new skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👩‍💻 I'm currently working at MAERSK GLOBAL SERVICE CENTERS
+
+## 🛠 Skills
+
+Core Java
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+## Tech Stack
+
+**Programming Language:** Java, SQL 
+
+**Programming Paradigm:** OOP, Functional Pragramming, 
+
+**FrameWork:** SpringBoot
+
+**Build Tool:** Maven
+
+**API Services Documentation:** Swagger
+
+**API Protocols:** Rest API, Servelet, Web Client
+
+**Code Quality & Coverage Tool :** SonarQube, Jacoco
+
+**Programming:** Node, Express
+
+**FrameWork:** React, Redux, TailwindCSS
+
+**Build Tool:** Node, Express
+
+**API Services Documentation:** React, Redux, TailwindCSS
+
+**API Protocols:** Node, Express
+
+
+
