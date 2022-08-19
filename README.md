@@ -10,21 +10,21 @@ Eager to learn new skills
 
 ## 🛠 Skills
 
-Core Java
+Core Java, JWT, OOPs, Functional Programming, Swagger, Junit
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-jayswal-468a04151/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KOMALJAYSWAL02)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+<!---
 
 ## Tech Stack
 
 **Programming Language:** Java, SQL 
 
-**Programming Paradigm:** OOP, Functional Pragramming, 
+**Programming Paradigm:** OOP, Functional Pragramming, Reactive Programming
 
 **FrameWork:** SpringBoot
 
@@ -36,15 +36,26 @@ Core Java
 
 **Code Quality & Coverage Tool :** SonarQube, Jacoco
 
-**Programming:** Node, Express
+**Database Storage:** Azure Cosmos DB
 
-**FrameWork:** React, Redux, TailwindCSS
+**FILE Storage:** Azure Blob Storage
 
-**Build Tool:** Node, Express
+**Secret Storage:** Azure Vault, Hashicorp Vault
 
-**API Services Documentation:** React, Redux, TailwindCSS
+**Source Control:** GIT
 
-**API Protocols:** Node, Express
+**IDE:** IntelliJ, Visual Studio Code
 
+**Repository Manager:** Sonartype Nexus
 
+**API GATEWAY:** Apigee
 
+**Infrastructure as a Code:** Terraform
+
+**Unit Testing:** Junit, Mockito, 
+
+**Test APIs:** Postman
+
+**SECURITY:** in progress :)
+
+--->
